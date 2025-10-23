@@ -1,0 +1,6 @@
+audiobooks/*
+cache/*
+metadata/*
+podcasts/*
+streams/*
+logs/*
