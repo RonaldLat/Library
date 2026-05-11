@@ -9,5 +9,5 @@ services:
       - ./config/:/config
       - ./metadata/:/metadata
     environment:
-      - TZ=America/Toronto
+      - TZ=Africa/Nairobi
     restart: always
